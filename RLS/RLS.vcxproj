@@ -131,7 +131,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Atom.h" />
+    <ClInclude Include="Electron.h" />
+    <ClInclude Include="Neutron.h" />
     <ClInclude Include="Particle.h" />
+    <ClInclude Include="Proton.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

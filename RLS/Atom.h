@@ -1,6 +1,9 @@
 #pragma once
 #include "xtd.h"
 #include "Particle.h"
+#include "Electron.h"
+#include "Proton.h"
+#include "Neutron.h"
 
 class Atom {
 private:
