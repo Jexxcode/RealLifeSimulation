@@ -1,0 +1,64 @@
+1. Basic Particles
+Electrons
+Protons
+Neutrons
+
+2. Atoms
+Components: Electrons, protons, and neutrons.
+Examples: Hydrogen (H), Carbon (C), Oxygen (O).
+
+3. Molecules
+Simple Molecules: Water (H₂O), Carbon Dioxide (CO₂).
+Complex Molecules: Glucose (C₆H₁₂O₆), Amino Acids
+
+4. Amino Acids
+Structure: Central carbon, amino group, carboxyl group, side chain.
+Examples: Glycine, Alanine.
+
+5. Proteins
+Composition: Long chains of amino acids.
+Structure Levels: Primary, Secondary, Tertiary, Quaternary.
+
+6. Nucleotides
+Components: Nitrogenous base, sugar, phosphate group.
+Examples: Adenine, Thymine, Cytosine, Guanine, Uracil.
+
+7. DNA (Deoxyribonucleic Acid)
+Structure: Double helix made of nucleotides.
+Components: Nitrogenous bases (A, T, C, G), Sugar (deoxyribose), Phosphate group.
+
+8. RNA (Ribonucleic Acid)
+Types: mRNA (Messenger RNA), tRNA (Transfer RNA), rRNA (Ribosomal RNA).
+
+9. Genomic Structures
+Chromosomes: Large structures made up of DNA and proteins (histones).
+Histones: Proteins that help package DNA into chromatin.
+
+10. Cellular Structures
+Organelles: Structures within cells (e.g., mitochondria, ribosomes).
+Cells: Basic unit of life, composed of various organelles.
+
+11. Tissues and Organs
+Tissues: Groups of similar cells working together (e.g., muscle tissue).
+Organs: Structures made up of different tissues working together (e.g., heart, liver).
+
+12. Organ Systems
+Examples: Digestive system, respiratory system.
+
+13. Organisms
+Types: Single-celled (e.g., bacteria), multicellular (e.g., plants, animals).
+
+Summary:
+Basic Particles: Electrons, Protons, Neutrons.
+Atoms: Composed of basic particles.
+Molecules: Composed of atoms.
+Amino Acids: Composed of molecules.
+Proteins: Composed of amino acids.
+Nucleotides: Components of DNA and RNA.
+DNA: Composed of nucleotides.
+RNA: Types include mRNA, tRNA, rRNA.
+Genomic Structures: Chromosomes and histones.
+Cellular Structures: Organelles and cells.
+Tissues and Organs: Made up of cells and tissues.
+Organ Systems: Groups of organs.
+Organisms: Whole living entities.

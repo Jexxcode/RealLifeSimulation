@@ -1,0 +1,36 @@
+Electrons, Neutrons, and Protons:
+
+Basic Particles: Fundamental components of atoms.
+Atoms:
+
+Structure: Consist of electrons orbiting a nucleus made of protons and neutrons.
+Types: Different types of atoms combine to form molecules.
+Molecules:
+
+Composition: Made up of atoms bonded together.
+Examples: Water (H₂O), carbon dioxide (CO₂).
+Amino Acids:
+
+Structure: Composed of a central carbon atom bonded to an amino group, a carboxyl group, a hydrogen atom, and a variable side chain.
+Components: Includes molecules like water and carbon dioxide.
+Proteins:
+
+Composition: Long chains of amino acids linked by peptide bonds.
+Structure: The sequence of amino acids determines the protein's function and structure.
+
+
+
+Nitrogenous Bases: Each base is a molecule made of these atoms.
+Examples: Adenine, guanine, cytosine, thymine, uracil.
+Nucleotides:
+
+Structure: Each nucleotide consists of a nitrogenous base, a sugar molecule (deoxyribose or ribose), and a phosphate group.
+Function: Nucleotides are the building blocks of nucleic acids (DNA and RNA).
+Nucleic Acids:
+
+DNA and RNA: Polymers made up of long chains of nucleotides.
+
+for more info about the difference of DNA RNA
+https://byjus.com/biology/difference-between-dna-and-rna/
+
+
